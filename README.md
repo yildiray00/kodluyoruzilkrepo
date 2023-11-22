@@ -32,3 +32,4 @@ istediğinizi tartışmak için bir konu açınız.
 ## License
 
 [MİT](https://choosealicense.com/licenses/mit/)
+
