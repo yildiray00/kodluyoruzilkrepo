@@ -8,9 +8,9 @@ README.md dosyası ve bir adet de index.html barındırıyor.
 
 Öncelikle projeji clonelayın.(Buraya sizin reponuzdan aldığınız gibi gelecek)
 
-'''
+```
 https://github.com/yildiray00/kodluyoruzilkrepo.git
-'''
+```
 
 ## Usage
 
@@ -18,10 +18,10 @@ Projeti tamamladıktan sonra Visual Studio Code programını açınız
 
 Linux için:
 
-'''
+```
 cd kodluyoruzilkrepo
 code .
-'''
+```
 
 ## Contributing
 
